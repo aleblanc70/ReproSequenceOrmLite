@@ -1,6 +1,4 @@
 ﻿using System;
-using LanBO.ServiceModel.Interface.Tables;
-using LanBO.ServiceModel.Interface.Tables.REIBeef;
 using ServiceStack.DataAnnotations;
 using ServiceStack.OrmLite;
 
